@@ -59,7 +59,7 @@ This Power BI dashboard provides insights into the performance of marketing camp
 - Best group: Age 25–34 → highest engagement & conversions
 - Males convert more; females reach more
 - Cairo → highest conversions; Alexandria → highest reach
-## 📷 Dashboard Screenshots
+#### 📷 Dashboard Screenshots
 ![Sales Dashboard](images/2025-08-08(3).png)
 
 ### Platforms & Ads
@@ -69,7 +69,7 @@ This Power BI dashboard provides insights into the performance of marketing camp
 - Awareness campaigns → highest reach  
 - Traffic campaigns → best conversion share
   ## 📷 Dashboard Screenshots
-![Sales Dashboard](images/2025-08-08(4).png)
+![Sales Dashboard](images/2025-08-08(2).png)
 
 ---
 
