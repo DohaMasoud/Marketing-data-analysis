@@ -51,11 +51,16 @@ This Power BI dashboard provides insights into the performance of marketing camp
 - CPA: $6.55 vs CPL: $0.04 → leads not converting
 - Engagement: 11%
 - 4 campaigns exceeded budget (e.g., Black Friday, Ramadan)
+## 📷 Dashboard Screenshots
+![Sales Dashboard](images/2025-08-08(1).png)
+
 
 ### Audience
 - Best group: Age 25–34 → highest engagement & conversions
 - Males convert more; females reach more
 - Cairo → highest conversions; Alexandria → highest reach
+## 📷 Dashboard Screenshots
+![Sales Dashboard](images/2025-08-08(3).png)
 
 ### Platforms & Ads
 - TikTok: top in reach and engagement  
@@ -63,6 +68,8 @@ This Power BI dashboard provides insights into the performance of marketing camp
 - Video ads → highest conversion rate  
 - Awareness campaigns → highest reach  
 - Traffic campaigns → best conversion share
+  ## 📷 Dashboard Screenshots
+![Sales Dashboard](images/2025-08-08(4).png)
 
 ---
 
